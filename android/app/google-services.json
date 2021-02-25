@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728004488749",
+    "project_id": "ezsupport-a9090",
+    "storage_bucket": "ezsupport-a9090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728004488749:android:10fa15a79b3e02f34dd2a4",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728004488749-mgnr6fgji0ap4etfdkdii94a3vmbslqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA15oq4L9qyr63s_Wlisa_qOfB361FY1gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728004488749-mgnr6fgji0ap4etfdkdii94a3vmbslqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
